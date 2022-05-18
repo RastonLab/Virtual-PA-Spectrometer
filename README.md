@@ -1,2 +1,2 @@
 # Virtual-PA-Spectrometer
-virtual PhotoAcoustic spectrometer
+virtual PhotoAcoustic (PA) spectrometer
